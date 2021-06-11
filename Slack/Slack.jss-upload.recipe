@@ -11,7 +11,7 @@
 		<key>CATEGORY</key>
 		<string>Communication</string>
 		<key>NAME</key>
-		<string>Slack-PKG-only</string>
+		<string>Slack-autoPKG</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>

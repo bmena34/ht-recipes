@@ -11,7 +11,7 @@
 		<key>CATEGORY</key>
 		<string>Google Apps</string>
 		<key>NAME</key>
-		<string>GoogleChrome</string>
+		<string>GoogleChrome-autoPKG</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
